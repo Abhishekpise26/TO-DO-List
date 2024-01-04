@@ -1,8 +1,7 @@
 To-Do List Web Application
 
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript. The application allows users to add, edit, delete, and filter tasks based on their priority (High, Medium, Low). Additionally, the application tracks the number of started and completed tasks.
-Features
-
+Feature
     Add Task: Users can add a new task by entering the task description, due date, and selecting the priority.
     Edit Task: Users can edit the description of a task.
     Delete Task: Users can delete a task.
@@ -11,7 +10,7 @@ Features
 
 Usage
 
-    Open the index.html file in a web browser to run the application.
+  Open the index.html file in a web browser to run the application.
     Enter the task details in the form provided.
     Click the "Add +" button to add the task to the list.
     Use the filter dropdown to view tasks based on their priority.
